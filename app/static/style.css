@@ -21,6 +21,9 @@ body {
     color: #262626;
     font-family: Trebuchet MS;
 }
+.fineprint {
+    font-size: 11px;
+}
 
 .content {
     margin-top: 10em;
