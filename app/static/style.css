@@ -11,7 +11,7 @@ body {
     padding: 10px 50px;
     text-align: center;
     font-size: 14px;
-    font-family: Century Gothic;
+    font-family: Arial;
 }
 
 .title {
@@ -19,7 +19,7 @@ body {
     margin-top: 1em;
     margin-bottom: 1em;
     color: #262626;
-    font-family: Century Gothic;
+    font-family: Arial;
 }
 
 .beta {
