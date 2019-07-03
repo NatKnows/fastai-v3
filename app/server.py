@@ -9,8 +9,8 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://www.hongkonghustle.com/SHORTexport.pkl'
-export_file_name = 'SHORTexport.pkl'
+export_file_url = 'https://www.hongkonghustle.com/remake_again_version.pkl'
+export_file_name = 'remake_again_version.pkl'
 
 classes = ['pork_and_shrimp_dumpling', 'shrimp_dumpling', 'soup_dumpling', 'steamed_bbq_pork_bun']
 path = Path(__file__).parent
